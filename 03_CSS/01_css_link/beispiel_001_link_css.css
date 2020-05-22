@@ -1,0 +1,9 @@
+h1{ /*Css Selektor */ 
+    color: brown;
+}
+
+h2{
+    color: red; 
+    font-family: Arial; 
+    font-size: 15 px;
+} 
